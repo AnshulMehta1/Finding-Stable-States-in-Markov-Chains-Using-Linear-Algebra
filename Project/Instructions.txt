@@ -1,0 +1,13 @@
+Enter a symmetric matrix in the code as input
+Non Negative Elements
+Property: Columns of the matrix should have sum of probability unity..
+The Final Output will be obtained
+
+2) Enter the same Matrix in Pagerank Algorithm
+The Steady State output needs to be compared with our output
+They will both result into similar Vectors
+Since we are condisering an Arbitrary Population in order to get output ,the output of the code might be proportional 
+to the Page Rank Output.
+
+The output of code represents the steady state 
+The output of Page Rank demonstrates out the Value which needs to be compared in order to rank.
